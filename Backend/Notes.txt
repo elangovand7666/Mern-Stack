@@ -1,0 +1,13 @@
+MVC - Model View Controller
+
+Backend :
+	1. npm init -y
+	2. npm i express
+	3. npm i nodemon
+	4. npm i ejs
+
+	Status Code-(100 - Information,200 - Success,300 - ,400 - sever side error,500 - client side server)
+
+	HTTP methods-(get,post,put - (it update whole data),delete,patch - (it update the particular data))
+
+	
